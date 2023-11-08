@@ -21,6 +21,28 @@ console.log(modulus)
 let division = 10/4
 console.log(division)
 
+let integer = 5
+let decimal = 3
+let text = "DataTypes";
+const person = {
+    firstName: "Inga",
+    lastName: "Stemela",
+    age: 20,
+    gender: 'Female'
+};
+let {firstName, lastNmae, gender} =person 
+console.log(person)
+typeof 5
+typeof 3
+typeof "DataType"
+typeof {firstName: "Inga",lastName: "Stemela",age: 20,gender: 'Female'}
+
+const name = ["Inga", "Stemela", 20, "Female"]
+console.log(firstName)
+typeof Inga
+let firstname= "null"
+let variable = "undefined"
+
 
 
 
